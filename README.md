@@ -5,7 +5,7 @@ Using Tableau to research bike sharing in Des Moines, IA
 The purpose of this project is to use Tableau to research how bikesharing is used in New York City for comparison of how it could be implemented in Des Moines, IA.  I used data from Citi Bikes to show a breakdown of peak times, top starting and ending locations, subscribers vs non-subscribers and a beakdown by gender.
 
 ## Results
-For a full story click this [link  https://public.tableau.com/app/profile/bethany.knowlton/viz/BikesharingChallenge_16556013325960/CitiBikeAnalysis?publish=yes.
+For a full story click this [link](https://public.tableau.com/app/profile/bethany.knowlton/viz/BikesharingChallenge_16556013325960/CitiBikeAnalysis?publish=yes).
 ![NYC by the numbers](https://user-images.githubusercontent.com/96890065/174495469-b6f50148-8bd3-4594-bc35-1ef286294107.JPG)
 
 ### Peak hours of operation
